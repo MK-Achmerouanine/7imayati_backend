@@ -1,0 +1,8 @@
+django
+djangorestframework
+dj-rest-auth[with_social]
+drf-yasg
+gunicorn
+Pillow
+pyrebase
+django-heroku
